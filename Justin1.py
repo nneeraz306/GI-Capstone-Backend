@@ -7,11 +7,14 @@ headers = {
     "Accept-Encoding": "gzip, deflate",
 }
 
-url = "https://www.sec.gov/Archives/edgar/data/1675033/000119312525264873/gecc-20250930.htm"
+# url = "https://www.sec.gov/Archives/edgar/data/1675033/000119312525264873/gecc-20250930.htm"
+url = "https://www.sec.gov/Archives/edgar/data/0001925309/000119312525266848/ck0001925309-20250930.htm"
+bdc_html = requests.get(url, headers=headers).text
+soup = BeautifulSoup(bdc_html, "lxml")
 
-html = requests.get(url, headers=headers).text
-soup = BeautifulSoup(html, "html.parser")
+soi_p_tag = soup.find("p", id="consolidated_schedule_investments")
+soi_table = soi_p_tag.find_next("table")
 
-tables = soup.find_all("table")
-print(tables)
-print(len(tables))
+soi_df = pd.read_html(str(soi_table))[0]
+soi_df.to_csv("soi_table2.csv", index=False)
+
