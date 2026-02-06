@@ -1,8 +1,8 @@
 [
   {
-    "bdc": "ares",
+    "bdc": "Ares",
     "bdcName": "Ares Capital Corporation",
-    "borrower": "techsolutions",
+    "borrower": "TechSolutions",
     "borrowerName": "TechSolutions Inc.",
     "coBorrower": "TechSolutions Operating LLC",
     "description": "Provider of enterprise software solutions for financial services industry",
@@ -15,9 +15,9 @@
     "maturityDate": "03/15/2028"
   },
   {
-    "bdc": "golub",
+    "bdc": "Golub",
     "bdcName": "Golub Capital BDC, Inc.",
-    "borrower": "meddevice",
+    "borrower": "MedDevice",
     "borrowerName": "MedDevice Holdings LLC",
     "coBorrower": "—",
     "description": "Manufacturer of specialized medical diagnostic equipment for hospital systems",
@@ -30,9 +30,9 @@
     "maturityDate": "06/22/2029"
   },
   {
-    "bdc": "mainstreet",
+    "bdc": "Mainstreet",
     "bdcName": "Main Street Capital Corporation",
-    "borrower": "industrialparts",
+    "borrower": "IndustrialParts",
     "borrowerName": "Industrial Parts Manufacturing",
     "coBorrower": "IPM Distribution Co.",
     "description": "Distributor and manufacturer of precision-engineered industrial components",
@@ -45,9 +45,9 @@
     "maturityDate": "09/10/2027"
   },
   {
-    "bdc": "ares",
+    "bdc": "Ares",
     "bdcName": "Ares Capital Corporation",
-    "borrower": "softwareplus",
+    "borrower": "SoftwarePlus",
     "borrowerName": "Software Plus Corp.",
     "coBorrower": "—",
     "description": "SaaS platform for HR and payroll management serving mid-market companies",
@@ -60,9 +60,9 @@
     "maturityDate": "11/30/2028"
   },
   {
-    "bdc": "fs",
+    "bdc": "FS",
     "bdcName": "FS KKR Capital Corp.",
-    "borrower": "healthcare",
+    "borrower": "Healthcare",
     "borrowerName": "Healthcare Services Group",
     "coBorrower": "HSG Management LLC",
     "description": "Provider of home healthcare and rehabilitation services across 12 states",
@@ -75,9 +75,9 @@
     "maturityDate": "01/18/2030"
   },
   {
-    "bdc": "golub",
+    "bdc": "Golub",
     "bdcName": "Golub Capital BDC, Inc.",
-    "borrower": "retail",
+    "borrower": "Retail",
     "borrowerName": "Retail Distribution Co.",
     "coBorrower": "—",
     "description": "Specialty retailer and distributor of outdoor recreation and sporting goods",
@@ -90,9 +90,9 @@
     "maturityDate": "04/05/2028"
   },
   {
-    "bdc": "mainstreet",
+    "bdc": "Mainstreet",
     "bdcName": "Main Street Capital Corporation",
-    "borrower": "advancedmaterials",
+    "borrower": "AdvancedMaterials",
     "borrowerName": "Advanced Materials Corp.",
     "coBorrower": "AMC Holdings Inc.",
     "description": "Manufacturer of specialty chemicals and advanced composite materials",
@@ -105,9 +105,9 @@
     "maturityDate": "07/12/2029"
   },
   {
-    "bdc": "ares",
+    "bdc": "Ares",
     "bdcName": "Ares Capital Corporation",
-    "borrower": "logistics",
+    "borrower": "Logistics",
     "borrowerName": "Logistics Partners LLC",
     "coBorrower": "—",
     "description": "Third-party logistics provider specializing in cold chain distribution",
@@ -120,9 +120,9 @@
     "maturityDate": "02/28/2029"
   },
   {
-    "bdc": "fs",
+    "bdc": "FS",
     "bdcName": "FS KKR Capital Corp.",
-    "borrower": "fintech",
+    "borrower": "Fintech",
     "borrowerName": "FinTech Innovations Inc.",
     "coBorrower": "FTI Operating Company",
     "description": "Digital payment processing platform for e-commerce merchants",
@@ -135,9 +135,9 @@
     "maturityDate": "10/15/2029"
   },
   {
-    "bdc": "golub",
+    "bdc": "Golub",
     "bdcName": "Golub Capital BDC, Inc.",
-    "borrower": "energy",
+    "borrower": "Energy",
     "borrowerName": "Energy Solutions Group",
     "coBorrower": "—",
     "description": "Renewable energy infrastructure and commercial solar installation services",
@@ -150,9 +150,9 @@
     "maturityDate": "08/20/2028"
   },
   {
-    "bdc": "mainstreet",
+    "bdc": "Mainstreet",
     "bdcName": "Main Street Capital Corporation",
-    "borrower": "educational",
+    "borrower": "Educational",
     "borrowerName": "Educational Services Co.",
     "coBorrower": "ESC Management LLC",
     "description": "Provider of professional training and certification programs for healthcare workers",
@@ -165,9 +165,9 @@
     "maturityDate": "12/05/2029"
   },
   {
-    "bdc": "ares",
+    "bdc": "Ares",
     "bdcName": "Ares Capital Corporation",
-    "borrower": "cybersecurity",
+    "borrower": "Cybersecurity",
     "borrowerName": "Cybersecurity Dynamics LLC",
     "coBorrower": "—",
     "description": "Managed security services and threat intelligence platform for enterprises",

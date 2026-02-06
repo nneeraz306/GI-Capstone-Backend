@@ -34,7 +34,7 @@ urls = [
         "https://www.sec.gov/Archives/edgar/data/1675033/000119312525264873/gecc-20250930.htm",
         "https://www.sec.gov/Archives/edgar/data/0001925309/000119312525266848/ck0001925309-20250930.htm",
         "https://www.sec.gov/Archives/edgar/data/0001370755/000119312525268125/tcpc-20250930.htm",
-        "https://www.sec.gov/Archives/edgar/data/0001487428/000143774925031988/hrzn20250930_10q.htm"
+        # "https://www.sec.gov/Archives/edgar/data/0001487428/000143774925031988/hrzn20250930_10q.htm"
     ]
 
 for i, url in enumerate(urls):

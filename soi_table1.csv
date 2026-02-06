@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+,,,,,,,,,,,,,,,,,,,,,,,,
+Company (1)(9),,Investment,,Initial Acquisition Date,,Reference Rate and Spread,Reference Rate and Spread,,,Interest Rate,Interest Rate,,,Amortized Cost (2) (7),Amortized Cost (2) (7),,,Fair Value (6),Fair Value (6),,,Percentage of Net Assets,Percentage of Net Assets,
+Debt Investments,,,,,,,,,,,,,,,,,,,,,,,,
+Automotive,,,,,,,,,,,,,,,,,,,,,,,,
+"Truck-Lite Co., LLC (3)",,"First-lien loan ($298,266 par, due 2/2032)",,2/13/2024,,SOFR + 5.00%,SOFR + 5.00%,,,,9.14,%,,$,295508,,,$,298267,,,,6.9,%
+Business Services,,,,,,,,,,,,,,,,,,,,,,,,
+"Artisan Bidco, Inc.(3)",,"First-lien loan ($113,281 par, due 11/2029)",,11/7/2023,,SOFR + 7.00%,SOFR + 7.00%,,,,11.32,%,,,111614,,,,113281,,,,2.6,%
+,,"First-lien loan (EUR 51,470 par, due 11/2029)",,11/7/2023,,,E + 7.00%,,,,8.94,%,,,54485,,,"60,477  (EUR 51,470)","60,477  (EUR 51,470)",,,,1.4,%
+,,"First-lien revolving loan ($10,694 par, due 11/2029)",,11/7/2023,,SOFR + 7.00%,SOFR + 7.00%,,,,11.19,%,,,10464,,,,10694,,,,0.2,%
+"Azurite Intermediate Holdings, Inc. (3)",,"First-lien loan ($213,750 par, due 3/2031)",,3/19/2024,,SOFR + 6.00%,SOFR + 6.00%,,,,10.16,%,,,210595,,,,216125,,,,5.0,%
+"BCTO Ignition Purchaser, Inc. (3)",,"First-lien holdco loan ($212,131 par, due 10/2030)",,4/18/2023,,SOFR + 7.50%,SOFR + 7.50%,,,11.83% PIK,11.83% PIK,,,,208642,,,,215843,,,,5.0,%
+"Crewline Buyer, Inc. (3)",,"First-lien loan ($152,696 par, due 11/2030)",,11/8/2023,,SOFR + 6.75%,SOFR + 6.75%,,,,10.91,%,,,149320,,,,153957,,,,3.6,%
+Dye & Durham Corp. (3)(4)(12),,"First-lien loan ($947 par, due 4/2031)",,4/4/2024,,SOFR + 4.35%,SOFR + 4.35%,,,,8.35,%,,,935,,,,941,,,,0.0,%
+Elements Finco Limited (3)(4),,"First-lien loan ($25,473 par, due 4/2031)",,4/29/2024,,SOFR + 5.25%,SOFR + 5.25%,,,9.41% (incl. 2.25% PIK),9.41% (incl. 2.25% PIK),,,,25308,,,,25791,,,,0.6,%
+,,"First-lien loan ($20,857 par, due 4/2031)",,4/29/2024,,SOFR + 5.00%,SOFR + 5.00%,,,,9.16,%,,,20691,,,,21118,,,,0.5,%
+,,"First-lien loan (GBP 118,058 par, due 4/2031)",,4/29/2024,,S + 5.50%,S + 5.50%,,,9.47% (incl. 2.50% PIK),9.47% (incl. 2.50% PIK),,,,147070,,,"161,320  (GBP 119,829)","161,320  (GBP 119,829)",,,,3.8,%
+"Galileo Parent, Inc. (3)",,"First-lien loan ($148,413 par, due 5/2030)",,5/3/2023,,SOFR + 5.75%,SOFR + 5.75%,,,,9.75,%,,,145497,,,,149898,,,,3.5,%
+,,"First-lien revolving loan ($15,481 par, due 5/2030)",,5/3/2023,,SOFR + 5.75%,SOFR + 5.75%,,,,9.75,%,,,15058,,,,15716,,,,0.4,%
+Lynx BidCo (3)(4),,"First-lien loan ($42,240 par, due 7/2031)",,7/5/2024,,,SOFR + 6.50%,,,,10.50,%,,,41213,,,,42423,,,,1.0,%
+,,"First-lien loan (EUR 62,746 par, due 7/2031)",,7/5/2024,,E + 6.50%,E + 6.50%,,,,8.50,%,,,70367,,,"73,662  (EUR 62,691)","73,662  (EUR 62,691)",,,,1.7,%
+Price Fx Inc. (3)(4),,"First-lien loan (EUR 910 par, due 10/2029)",,10/27/2023,,,E + 7.00%,,,,8.97,%,,,969,,,"1,083  (EUR 921)","1,083  (EUR 921)",,,,0.0,%
+,,"First-lien loan (EUR 910 par, due 10/2029)",,12/19/2024,,,E + 6.25%,,,,8.22,%,,,925,,,"1,080  (EUR 919)","1,080  (EUR 919)",,,,0.0,%
+"USA DeBusk, LLC (3)",,"First-lien loan ($104,529 par, due 4/2031)",,4/30/2024,,SOFR + 5.25%,SOFR + 5.25%,,,,9.45,%,,,103025,,,,105205,,,,2.4,%
+,,"First-lien revolving loan ($8,015 par, due 4/2030)",,4/30/2024,,SOFR + 5.25%,SOFR + 5.25%,,,,9.41,%,,,7808,,,,8118,,,,0.2,%
+"Wrangler TopCo, LLC (3)",,"First-lien loan ($135,318 par, due 9/2029)",,7/7/2023,,SOFR + 6.00%,SOFR + 6.00%,,,,10.07,%,,,133097,,,,137260,,,,3.2,%
+,,,,,,,,,,,,,,,1457083,,,,1513992,,,,35.1,%
+Chemicals,,,,,,,,,,,,,,,,,,,,,,,,
+Erling Lux Bidco SARL (3)(4),,"First-lien loan (EUR 11,549 par, due 9/2028)",,9/6/2022,,,E + 7.00%,,,,9.03,%,,,11626,,,"13,817  (EUR 11,759)","13,817  (EUR 11,759)",,,,0.3,%
+,,"First-lien loan (GBP 19,592 par, due 9/2028)",,9/6/2022,,,S + 7.00%,,,,10.97,%,,,23139,,,"26,705  (GBP 19,836)","26,705  (GBP 19,836)",,,,0.6,%
+,,"First-lien loan (NOK 7,427 par, due 9/2028)",,9/6/2022,,N + 7.00%,N + 7.00%,,,,11.33,%,,,711,,,"754  (NOK 7,520)","754  (NOK 7,520)",,,,0.0,%
+,,"First-lien revolving loan (GBP 499 par, due 9/2028)",,9/6/2022,,,S + 7.00%,,,,10.97,%,,,610,,,680  (GBP 505),680  (GBP 505),,,,0.0,%
+FGI Acquisition Corp. (3)(4),,"First-lien loan ($89,775 par, due 6/2032)",,6/4/2025,,,SOFR + 5.50%,,,,9.66,%,,,88039,,,,88428,,,,2.1,%
+,,,,,,,,,,,,,,,124125,,,,130384,,,,3.0,%
+Communications,,,,,,,,,,,,,,,,,,,,,,,,
+Aurelia Netherlands MidCo 2 B.V. (3)(4),,"First-lien loan (EUR 326,566 par, due 5/2031)",,5/22/2024,,,E + 4.75%,,,,6.78,%,,,354623,,,"383,715  (EUR 326,566)","383,715  (EUR 326,566)",,,,8.9,%
+X Holdings. Inc. (12),,"First-lien loan ($37,447 par, due 10/2029) (3)",,2/5/2025,,,SOFR + 6.65%,,,,10.96,%,,,36434,,,,36703,,,,0.9,%
+,,"First-lien loan ($29,710 par, due 10/2029)",,4/28/2025,,,9.50,%,,,9.50,%,,,29003,,,,29781,,,,0.7,%
+,,,,,,,,,,,,,,,420060,,,,450199,,,,10.5,%
+Education,,,,,,,,,,,,,,,,,,,,,,,,
+Kangaroo Bidco AS (3)(4),,"First-lien loan ($157,500 par, due 11/2030)",,11/2/2023,,SOFR + 6.25%,SOFR + 6.25%,,,,10.43,%,,,153821,,,,160650,,,,3.7,%
+"Severin Acquisition, LLC (3)",,"First-lien loan ($186,816 par, due 10/2031)",,10/1/2024,,SOFR + 5.00%,SOFR + 5.00%,,,9.16% (incl. 2.25% PIK),9.16% (incl. 2.25% PIK),,,,186593,,,,186215,,,,4.4,%
+,,,,,,,,,,,,,,,340414,,,,346865,,,,8.1,%
+Electronics,,,,,,,,,,,,,,,,,,,,,,,,
+"Sapphire Software Buyer, Inc. (3)",,"First-lien loan ($225,253 par, due 9/2031)",,9/30/2024,,SOFR + 5.00%,SOFR + 5.00%,,,,8.87,%,,,223064,,,,224622,,,,5.2,%
+Financial Services,,,,,,,,,,,,,,,,,,,,,,,,
+Alaska Bidco Oy (3)(4),,"First-lien loan (EUR 727 par, due 5/2030)",,5/30/2023,,,E + 5.75%,,,,7.75,%,,,762,,,860  (EUR 732),860  (EUR 732),,,,0.0,%
+"Arlberg Bidco, LLC (3)(4)(5)",,"First-lien loan ($5,000 par, due 2/2031)",,2/14/2025,,SOFR + 5.75%,SOFR + 5.75%,,,,9.98,%,,,4900,,,,4963,,,,0.2,%
