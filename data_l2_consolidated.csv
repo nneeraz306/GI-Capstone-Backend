@@ -1,0 +1,50 @@
+Issuer,Instrument,Ref,Floor,Spread,Total Coupon,Maturity,Principal,Cost,Fair Value,% of Total Cash and Investments,Notes
+Debt Investments (continued),Debt Investments (continued),,,,,,,,,,
+"LJ Avalon Holdings, LLC (Ardurra)",First Lien Delayed Draw Term Loan,SOFR(Q),1.00%,4.50%,8.67%,2/1/2030,2761070,2728008,2761070,0.16,N
+"LJ Avalon Holdings, LLC (Ardurra)",First Lien Term Loan,SOFR(M),1.00%,4.50%,8.77%,2/1/2030,6744444,6566167,6744444,0.38,N
+"PlayPower, Inc",First Lien Term Loan,SOFR(Q),0.75%,5.25%,9.25%,8/28/2030,8600000,8488999,8557000,0.48,N
+"PlayPower, Inc",First Lien Term Loan,SOFR(Q),0.75%,5.25%,9.25%,8/28/2030,1262588,1250880,1256275,0.07,N
+"PlayPower, Inc",Sr Secured Revolver,SOFR(Q),0.75%,5.25%,9.55%,8/28/2030,—,"(16,173","(17,333",0.0,K/N
+RBS Buyer Inc.,Sr Secured Revolver,SOFR(Q),1.00%,5.00%,9.35%,7/31/2031,—,"(12,151","(12,000",0.0,K/N
+RBS Buyer Inc.,First Lien Delayed Draw Term Loan,SOFR(Q),1.00%,5.00%,9.31%,7/31/2031,—,"(3,645","(7,200",0.0,K/N
+RBS Buyer Inc.,First Lien Term Loan,SOFR(Q),1.00%,5.00%,9.31%,7/31/2031,3400000,3357965,3359200,0.19,N
+"Titan Home Improvement, LLC (Renuity)",First Lien Term Loan,SOFR(Q),1.00%,4.75%,8.95%,5/31/2030,1841860,1795814,1860279,0.1,N
+"Titan Home Improvement, LLC (Renuity)",First Lien Delayed Draw Term Loan,SOFR(Q),1.00%,4.75%,8.95%,5/31/2030,—,—,3488,0.0,N
+"Vortex Companies, LLC",First Lien Delayed Draw Term Loan,Prime,1.00%,4.00%,11.25%,9/4/2029,99476,94251,104712,0.01,N
+"Vortex Companies, LLC",First Lien Term Loan,SOFR(M),1.00%,5.00%,9.16%,9/4/2029,1085291,1070028,1093973,0.06,N
+"Vortex Companies, LLC",First Lien Term Loan,SOFR(M),1.00%,5.00%,9.16%,9/4/2029,877519,844123,884539,0.05,N
+"Vortex Companies, LLC",First Lien Term Loan,SOFR(M),1.00%,5.00%,9.16%,9/4/2029,650781,632952,655987,0.04,N
+"Vortex Companies, LLC",First Lien Delayed Draw Term Loan,SOFR(M),1.00%,5.00%,9.16%,9/4/2029,849733,838531,856531,0.05,N
+"Vortex Companies, LLC",First Lien Delayed Draw Term Loan,SOFR(M),1.00%,5.00%,9.16%,9/4/2029,421782,433488,425156,0.02,N
+"Vortex Companies, LLC",Sr Secured Revolver,Prime,1.00%,4.00%,11.25%,9/4/2029,60054,59589,60054,0.0,N
+,,,,,,,,65828499,66402879,3.74,
+Consumer Finance,Consumer Finance,,,,,,,,,,
+"Lucky US BuyerCo, LLC (Global Payments)",Sr Secured Revolver,SOFR(Q),1.00%,7.50%,11.50%,3/30/2029,460230,451557,450913,0.03,N
+"Lucky US BuyerCo, LLC (Global Payments)",First Lien Term Loan,SOFR(Q),1.00%,7.50%,11.50%,3/30/2029,4243371,4113607,4172239,0.23,N
+Money Transfer Acquisition Inc.,First Lien Term Loan,SOFR(M),1.00%,8.35%,12.51%,12/14/2027,8094342,7968368,7948644,0.45,N
+,,,,,,,,12533532,12571796,0.71,
+Containers & Packaging,Containers & Packaging,,,,,,,,,,
+"BW Holding, Inc. (Brook & Whittle)",First Lien Term Loan,SOFR(Q),1.00%,9.25%,13.48%,3/14/2029,18067808,16906861,7046445,0.4,C/N
+PVHC Holding Corp.,First Lien Term Loan,SOFR(Q),2.50%,5.65% Cash + 0.75% PIK,10.39%,2/17/2027,5028114,4938470,5090966,0.29,N
+,,,,,,,,21845331,12137411,0.69,
+Diversified Consumer Services,Diversified Consumer Services,,,,,,,,,,
+"Express Wash Acquisition Company, LLC (Whistle)",Sr Secured Revolver,SOFR(Q),1.00%,6.25%,10.59%,4/10/2031,—,"(15,382","(26,666",0.0,K/N
+"Express Wash Acquisition Company, LLC (Whistle)",First Lien Term Loan,SOFR(Q),1.00%,6.25%,10.58%,4/10/2031,28262551,27986406,27810350,1.56,N
+Fusion Holding Corp. (Finalsite),First Lien Term Loan,SOFR(Q),0.75%,6.25%,10.25%,9/29/2028,3562450,3447392,3481258,0.2,N
+Fusion Holding Corp. (Finalsite),Sr Secured Revolver,Prime,0.75%,6.25%,10.25%,9/15/2027,—,"(1,730","(4,377",0.0,N
+Infinite Commerce Holdings LLC (Razor),2nd Lien 2A Term Loan,Fixed,0.00%,15.00% PIK,15.00%,12/20/2029,3074451,3077118,3077218,0.17,N
+Infinite Commerce Holdings LLC (Razor),2nd Lien 2B Term Loan,Fixed,0.00%,15.00% PIK,15.00%,12/20/2029,1353054,1354271,1354271,0.08,N
+Infinite Commerce Holdings LLC (Razor),2nd Lien 3B Term Loan,Fixed,0.00%,15.00% PIK,15.00%,12/20/2029,20462578,15762324,16018106,0.9,C/N
+SellerX Germany GMBH & Co. KG (Germany),Sr Secured Revolver,SOFR(Q),0.00%,5.00%,9.32%,11/5/2026,807613,800199,807613,0.05,B/H/N
+SellerX Germany GMBH & Co. KG (Germany),Sr Secured Revolver,SOFR(Q),0.00%,5.00%,9.00%,6/18/2029,10890726,11129493,10890725,0.61,B/H/N
+SellerX Germany GMBH & Co. KG (Germany),First Lien Term Loan,SOFR(Q),0.00%,3.00% Cash + 6.00% PIK,13.00%,12/31/2028,7286727,7286727,7286727,0.41,B/H/N
+SellerX Germany GMBH & Co. KG (Germany),First Lien Term Loan,SOFR(Q),0.00%,3.00% Cash + 6.00% PIK,13.00%,12/31/2028,8360256,8360256,8360256,0.47,B/H/N
+"Thras.io, LLC",First Out Term Loan,SOFR(Q),1.00%,10.26% PIK,14.58%,6/18/2029,6373339,6243590,6373339,0.36,N
+"Thras.io, LLC",Second Out Term Loan,SOFR(Q),1.00%,10.26% PIK,14.58%,6/18/2029,18488431,15397713,13907534,0.78,C/N
+,,,,,,,,100828377,99336354,5.59,
+Diversified Financial Services,Diversified Financial Services,,,,,,,,,,
+"36th Street Capital Partners Holdings, LLC",Senior Note,Fixed,0.00%,12.00%,12.00%,11/30/2025,59756438,59756438,59756438,3.36,E/F/N
+Accordion Partners LLC,Sr Secured Revolver,SOFR(Q),0.75%,5.25%,9.55%,11/15/2031,—,"(2,801",—,0.0,K/N
+Accordion Partners LLC,First Lien Delayed Draw Term Loan,SOFR(Q),0.75%,5.00%,9.12%,11/15/2031,157256,152970,157256,0.01,N
+Accordion Partners LLC,First Lien Term Loan,SOFR(Q),0.75%,5.00%,9.00%,11/15/2031,5876190,5849727,5876190,0.33,N
+"Accuserve Solutions, Inc.",First Lien Term Loan,SOFR(Q),1.00%,5.25%,9.48%,3/15/2030,2323873,2310496,2247185,0.13,N

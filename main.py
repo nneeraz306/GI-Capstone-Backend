@@ -35,9 +35,9 @@ from normalization_l1 import run_header_consolidation
 from normalization_l2 import run_security_normalization
 
 # --- Configuration ---
-INPUT_FILE = 'soi_table2.csv'  # Your original raw file
-L1_OUTPUT = 'data_l2_consolidated.csv' # Output of Layer 1 / Input for Layer 2
-L2_OUTPUT = 'data_l2_normalized.csv'   # Output of Layer 2
+INPUT_FILE = 'soi_table0.csv'  # Your original raw file
+L1_OUTPUT = 'data_l0_consolidated.csv' # Output of Layer 1 / Input for Layer 2
+L2_OUTPUT = 'data_l0_normalized.csv'   # Output of Layer 2
 
 def main():
     # Check if input file exists

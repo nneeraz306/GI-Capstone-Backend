@@ -23,11 +23,11 @@ def run_mapping(l0_path, l1_path, l2_path, output_path):
     mapped_dfs = []
 
     # ==========================================
-    # 1. PROCESS DF0 (Blackstone)
+    # 1. PROCESS DF0 (Great Elm Capital Corp.)
     # ==========================================
-    print(f"Processing Blackstone (DF0): {len(df0)} rows")
+    print(f"Processing Great Elm Capital Corp. (DF0): {len(df0)} rows")
     m0 = pd.DataFrame(index=df0.index)
-    m0['Direct Lender'] = "Blackstone Secured Lending Fund"
+    m0['Direct Lender'] = "Great Elm Capital Corp."
     m0['Lead/Primary Borrower'] = df0['Portfolio Company']
     m0['Additional Borrower(s)'] = ""
     m0['Business Description in Datalab'] = df0['Industry']
@@ -74,9 +74,9 @@ def run_mapping(l0_path, l1_path, l2_path, output_path):
     mapped_dfs.append(m0)
 
     # ==========================================
-    # 2. PROCESS DF1 (Blue Owl)
+    # 2. PROCESS DF1 (Sixth Street Lending Partners)
     # ==========================================
-    print(f"Processing Blue Owl (DF1): {len(df1)} rows")
+    print(f"Processing Sixth Street Lending Partners (DF1): {len(df1)} rows")
     # Identify Industry Headers
     industry_list = []
     is_header_mask = []
@@ -96,10 +96,10 @@ def run_mapping(l0_path, l1_path, l2_path, output_path):
             
     df1['Industry'] = industry_list
     df1_clean = df1[~pd.Series(is_header_mask)].copy()
-    print(f"  Cleaned Blue Owl rows: {len(df1_clean)}")
+    print(f"  Cleaned Sixth Street Lending Partners rows: {len(df1_clean)}")
     
     m1 = pd.DataFrame(index=df1_clean.index)
-    m1['Direct Lender'] = "Blue Owl Capital Corporation"
+    m1['Direct Lender'] = "Sixth Street Lending Partners Capital Corporation"
     m1['Lead/Primary Borrower'] = df1_clean['Company']
     m1['Additional Borrower(s)'] = ""
     m1['Business Description in Datalab'] = df1_clean['Industry']
@@ -151,9 +151,9 @@ def run_mapping(l0_path, l1_path, l2_path, output_path):
     mapped_dfs.append(m1)
 
     # ==========================================
-    # 3. PROCESS DF2 (Ares)
+    # 3. PROCESS DF2 (BlackRock TCP Capital Corp.)
     # ==========================================
-    print(f"Processing Ares (DF2): {len(df2)} rows")
+    print(f"Processing BlackRock TCP Capital Corp. (DF2): {len(df2)} rows")
     
     current_industry_2 = None
     industry_list_2 = []
@@ -163,7 +163,7 @@ def run_mapping(l0_path, l1_path, l2_path, output_path):
         inst = str(row['Instrument'])
         principal = row['Principal']
         
-        # Ares header logic: Principal is usually NaN
+        # BlackRock TCP Capital Corp. header logic: Principal is usually NaN
         if pd.isna(principal) or str(principal).strip() == '' or str(principal).lower() == 'nan':
              if pd.notna(inst) and 'Debt Investments' not in inst and 'Investments' not in inst:
                 current_industry_2 = inst
@@ -174,10 +174,10 @@ def run_mapping(l0_path, l1_path, l2_path, output_path):
             
     df2['Industry'] = industry_list_2
     df2_clean = df2[~pd.Series(is_header_mask_2)].copy()
-    print(f"  Cleaned Ares rows: {len(df2_clean)}")
+    print(f"  Cleaned BlackRock TCP Capital Corp. rows: {len(df2_clean)}")
     
     m2 = pd.DataFrame(index=df2_clean.index)
-    m2['Direct Lender'] = "Ares Capital Corp"
+    m2['Direct Lender'] = "BlackRock TCP Capital Corp."
     m2['Lead/Primary Borrower'] = df2_clean['Issuer']
     m2['Additional Borrower(s)'] = ""
     m2['Business Description in Datalab'] = df2_clean['Industry']
